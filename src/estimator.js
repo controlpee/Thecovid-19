@@ -2,9 +2,9 @@
     [
 
         {
-          "data": {
+          data: {
       
-              "region": {
+              region: {
                           name: 'Africa',
                           avgAge: 19.7,
                           avgDailyIncomeInUSD: 4,
@@ -27,7 +27,7 @@
                         hospitalBedsByRequestedTime: -16639962,
                         casesForICUByRequestedTime: 5625856,
                         casesForVentilatorsByRequestedTime: 2250342,
-                        dollasInFlight: 12484899635.2
+                        dollarsInFlight: 12484899635.2
                           },
                           
                           severeImpact: {
