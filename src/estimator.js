@@ -18,7 +18,7 @@ totalHospitalBeds: 678874
 estimate: {
 impact: {
 
- currentlyInfected: 27470,
+currentlyInfected: 27470,
 infectionsByRequestedTime: 112517120,
 severeCasesByRequestedTime: 16877568,
 hospitalBedsByRequestedTime: -16639962,
